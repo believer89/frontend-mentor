@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: '/frontend-mentor/challenge-2-product-preview/'
-})
+  base: "/frontend-mentor/challenge-2-product-preview",
+});
